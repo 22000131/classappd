@@ -1,1 +1,3 @@
-testplaying12.wordpress.com
+# robots.txt
+User-agent: *
+Disallow: /
