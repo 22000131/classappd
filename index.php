@@ -41,9 +41,7 @@
                 nameArea.style.visibility = 'visible';
                 // パスワードが正しい場合にのみ生徒リストを表示
                 studentNames = [
-                    '青木智哉', '青山桃子', '石井一輝', '河嶋優奈', '菊地陽翔', '北本陽毬', '久保木心優', '坂本一馬', '竹内怜', '武田隆太郎',
-                    '趙思源', '鶴留杏菜', '中村美々', '鍋田弥央', '浪岡春希', '野口唯奈', '野積優月', '福和三鈴', '藤田恵理子', '藤田真理子',
-                    '峯岸和輝', '柳彦輝', '横川心菜', '山田雪月'
+                    '哉', '桃',
                 ];
                 nameArea.value = studentNames.join('\n');
                 document.getElementById('shuffleButton').disabled = false;
